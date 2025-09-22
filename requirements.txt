@@ -1,0 +1,11 @@
+# requirements.txt
+tensorflow>=2.9,<3
+opencv-python
+streamlit
+numpy
+scikit-learn
+matplotlib
+pillow
+python-pptx
+h5py
+seaborn
