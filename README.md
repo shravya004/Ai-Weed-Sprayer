@@ -13,7 +13,6 @@
 - `backend.py` — loads model, predicts, simulates spray by green-region detection.
 - `app.py` — Streamlit UI for demo.
 - `evaluate.py` — Evaluate on `dataset/val` and save classification report + confusion matrix to `outputs/`.
-- `sih_model_train.ipynb` — training notebook (if you need to re-train or preprocess).
 
 ## Demo checklist
 - Open Streamlit, upload images, show both "Crop" and "Weed" examples.
